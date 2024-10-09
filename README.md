@@ -12,9 +12,10 @@
  
  🌱 I'm currently learning **Python, AWS, JavaScript, and PostgreSQL**
 
- 💬 Ask me about **Java, C, C++, MySQL, or anything tech-related**
+ 💬 Ask me about **Java, C, C++, MySQL, or my PC set up!**
+ <iframe src="https://giphy.com/embed/ThrM4jEi2lBxd7X2yz" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thisgifishaunted-halloween-working-happy-ThrM4jEi2lBxd7X2yz">via GIPHY</a></p>
 
- ⚡ Fun fact **The first computer bug was an actual bug**
+ ⚡ Fun fact **MIT has a computer that can detect real vs. fake smiles!**
  
  </div>
  
