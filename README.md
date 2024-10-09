@@ -13,9 +13,15 @@
  🌱 I'm currently learning **Python, AWS, JavaScript, and PostgreSQL**
 
  💬 Ask me about **Java, C, C++, MySQL, or my PC set up!**
- <iframe src="https://giphy.com/embed/ThrM4jEi2lBxd7X2yz" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thisgifishaunted-halloween-working-happy-ThrM4jEi2lBxd7X2yz">via GIPHY</a></p>
+ </h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif" width="300" height="300" alt="Animated GIF" />
+</div>
+<br/>
+<div align="center">
 
- ⚡ Fun fact **MIT has a computer that can detect real vs. fake smiles!**
+ ⚡ Fun fact: **MIT has a computer that can detect real vs. fake smiles!**
+ 
  
  </div>
  
