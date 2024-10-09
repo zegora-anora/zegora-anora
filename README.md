@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋; I'm+a+Software+Engineer+in+Training!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Software+Engineer+in+Training!;" />
 </h1>
 
 <h3 align="center">🎓 Senior Software Engineering Student at University of Texas at Dallas 🎓</h3>
@@ -19,13 +19,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:ashlynn.norris93@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/ashlynn-norris-164027101/" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/zegora-anora" target="_blank">
+  <a href="https://github.com/your-github-username" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -43,4 +43,11 @@
 <hr/>
 
 <br/>
+
+<div align="center">
+<a href='https://ko-fi.com/YourKofiName' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
 
